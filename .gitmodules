@@ -1,0 +1,3 @@
+[submodule "src/lethal-build"]
+	path = src/lethal-build
+	url = https://github.com/lethaler-company/lethal-build
